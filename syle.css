@@ -1,0 +1,40 @@
+.navbarcon {
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+.navibar {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+body {
+    font-family: 'Barlow', sans-serif;
+    margin: 0%;
+}
+.jumbotron {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: blueviolet;
+    padding: 250px;
+}
+.bourbon {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+.star{
+    margin-bottom: 20px;
+}
+.titlefont {
+    font-size: x-large;
+}
+.maintitle {
+    font-size: 100px;
+    font-weight: bolder;
+}
